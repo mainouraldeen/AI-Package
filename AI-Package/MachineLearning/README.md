@@ -1,3 +1,5 @@
+# Classifier
+
 - A dataset holds a diagnosis for the eyes of 24 patients.
 - The diagnosis is based on the following features:
 1. Age: (0) young, (1) adult.
