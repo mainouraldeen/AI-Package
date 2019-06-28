@@ -1,5 +1,5 @@
-? A dataset holds a diagnosis for the eyes of 24 patients.
-? The diagnosis is based on the following features:
+- A dataset holds a diagnosis for the eyes of 24 patients.
+- The diagnosis is based on the following features:
 1. Age: (0) young, (1) adult.
 2. Prescription: (0) myope, (1) hypermetrope.
 3. Astigmatic: (0) no, (1) yes.
